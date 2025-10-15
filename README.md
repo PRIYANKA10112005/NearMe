@@ -36,151 +36,102 @@ map.html
     </head>
 
     <body bgcolor="cyan">
-        <h1 align="center">CHENNAI -- HARI PRASATH E (25007799)</h1>
+        <h1 align="center">VILLUPURAM -- HARI PRASATH E (25007799)</h1>
         <br>
         
         
-        <img src="map.png" usemap="#image-map">
+       <img src="map (2).png" usemap="#image-map">
 
 <map name="image-map">
-    <area target="" alt="Vadapalani murugan temple" title="Vadapalani murugan temple" href="temple.html" coords="748,40,934,129" shape="rect">
-    <area target="" alt="marina beach" title="marina beach" href="beach.html" coords="1547,104,89" shape="circle">
-    <area target="" alt="Chennai international airport" title="Chennai international airport" href="airport.html" coords="257,600,426,729" shape="rect">
-    <area target="" alt="Pheonix marketcity" title="Pheonix marketcity" href="marketcity.html" coords="719,637,914,710" shape="rect">
-    <area target="" alt="ITC grand chola" title="ITC grand chola" href="hotel.html" coords="980,498,83" shape="circle">
+    <area target="" alt="MGR GOVT COLLEGE" title="MGR GOVT COLLEGE" href="clg.html" coords="901,685,592,803" shape="rect">
+    <area target="" alt="VILLUPURAM RAILWAY STATION" title="VILLUPURAM RAILWAY STATION" href="rs.html" coords="922,323,1084,377" shape="rect">
+    <area target="" alt="PANAMPET LAKE" title="PANAMPET LAKE" href="lake.html" coords="1059,738,147" shape="circle">
+    <area target="" alt="VALEESHWARAR TEMPLE" title="VALEESHWARAR TEMPLE" href="temple.html" coords="1603,474,1907,565" shape="rect">
+    <area target="" alt="THENDRAL PARK" title="THENDRAL PARK" href="park.html" coords="765,229,958,308" shape="rect">
 </map>
-
-        
-
-
-    </body>
+</body>
 </html>
 
 
-
-airport.html
+clg.html
 
 <html>
     <head>
-        <title>AIRPORT</title>
+        <title>MGR GOVT COLLEGE</title>
     </head>
-    <body bgcolor="deep blue">
-        <h1 align="center">CHENNAI AIRPORT</h1>
-        <p>
-            <font size="5">Chennai International Airport is an international airport serving 
-                the city of Chennai, the capital of Tamil Nadu, India. the airport is .. It is located in 
-                Tirusulam in Chengalpattu district, in the Greater Chennai Metropolitan Area 
-                around 21 km (13 mi) southwest of the city centre. The first air service was 
-                operated in 1915 and the airport was commissioned in 1930. The airport 
-                serves as the southern regional headquarters of the Airports Authority of 
-                India (AAI) for South India comprising the states of Andhra Pradesh, 
-                </font>
-        </p>
-        
+    <body>
+        <h>MGR GOVT COLLEGE</h>
+        <p>  Dr.M.G.R. Government Arts and Science College for Women, Villupuram was established in the year 2017, in memory of Late Chief Minister of Tamil Nadu, Bharat Ratna, Dr. M.G.Ramachandran. Affiliated to the Thiruvalluvar University, the College aims to impart knowledge and holistic development to aspiring young women especially from the socially and economically backward classes of the society. Standing by its moto "ulluvadhellam uyarvullal" meaning  whatever you ponder let your aim be lofty still, the college has created a niche for itself in a very short span of time. With over 1400 students the college offers a wide range of undergraduate programs in Science, Arts and Humanities.</p>
     </body>
 </html>
 
-beach.html
-
+lake.html
 
 <html>
     <head>
-        <title>BEACH</title>
+        <title>PANAMPET LAKE</title>
     </head>
-    <body bgcolor="light sand">
-        <h1 align="center">MARINA BEACH</h1>
-        <p>
-            <font size="5">Marina Beach, or simply the Marina, is a natural urban beach in 
-                Chennai, Tamil Nadu, India, along the Bay of Bengal. The beach runs from 
-                near Fort St. George in the north to Foreshore Estate in the south, a 
-                distance of 6.0 km (3.7 mi), making it the second longest urban beach in 
-                the world. During summer months, about 15,000 to 20,000 
-                people visit the beach daily.</font>
-        </p>
-        
+    <body>
+        <h>PANAMPET LAKE</h>
+        <p>Panampet Lake is a lake located in Viluppuram, Tamil Nadu, India. It is known for its biodiversity and attracts numerous bird species, making it a popular spot for birdwatching. 
+Location and overview
+Location: The lake is in the Viluppuram district of Tamil Nadu. It is a well-known landmark in the area, and a guest house is located nearby.  </p>
     </body>
 </html>
 
-
-hotel.html
+park.html
 
 <html>
     <head>
-        <title>HOTEL</title>
+        <title> THENDRAL PARK</title>
     </head>
-    <body bgcolor="ivory">
-        <h1 align="center">ITC GRAND CHOLA</h1>
-        <p>
-            <font size="5">The ITC Grand Chola is a 5-star luxury hotel in Chennai, India. 
-                It is located in Guindy, opposite SPIC building and along the same row of 
-                buildings as Ashok Leyland Towers. The building, designed by Singapore-based 
-                SRSS Architects,  with a 30,000-sq ft pillar-less 
-                ballroom. In Powai Lake (759 rooms) and Grand Hyatt 
-                (694 rooms), both in Mumbai.</font>
-        </p>
-        
+    <body>
+        <h>THENDRAL PARK</h>
+        <p> Thendral Park is an inn located in Villupuram, Tamil Nadu. It is not a public park, but a lodging facility. 
+Key details about Thendral Park Inn:
+Location: It is situated on Hospital Road, within the city limits of Villupuram, and is easily accessible from both the highway and the railway station.
+Facilities: The guest house offers air-conditioned, soundproof family rooms with a flat-screen TV and a private bathroom. Other amenities include free Wi-Fi, a 24-hour front desk, and an elevator.</p>
     </body>
 </html>
 
-
-
-
-marketcity.html
+rs.html
 
 <html>
     <head>
-        <title>MARKETCITY</title>
+        <title>VILLUPURAM RAILWAY STATION</title>
     </head>
-    <body bgcolor="light beige">
-        <h1 align="center">PHOENIX MARKETCITY</h1>
-        <p>
-            <font size="5">Phoenix Marketcity is a shopping mall developed by Phoenix Mills 
-                Limited located in Chennai, Tamil Nadu, India. It was opened in January 2013 
-                and is the 2nd largest mall in the city. It was the fourth largest mall in 
-                India in 2018. It has a built up area of 1,000,000 square feet. Also there 
-                is a . It is also located in the same compound of 
-                Phoenix Marketcity Chennai.</font>
-        </p>
-        
+    <body>
+        <h>VILLUPURAM RAILWAY STATION</h>
+        <p>Villupuram Junction (VM) is a major and busy railway station in Tamil Nadu that serves as a vital interchange for trains connecting Chennai to the southern and central parts of the state. As of June 2024, the station was undergoing redevelopment under the Amrit Bharat Scheme to enhance its amenities and infrastructure. 
+Key features
+Connectivity: Villupuram is a crucial junction where train lines diverge, connecting to various parts of South India. It is a major hub for trains going to and from Chennai, Tiruchirappalli, Ramanathapuram, and other southern destinations. </p>
     </body>
 </html>
-
-
 
 temple.html
 
 <html>
     <head>
-        <title>TEMPLE</title>
+        <title>VALEESHWARAR TEMPLE</title>
     </head>
-    <body bgcolor="gold">
-        <h1 align="center">VADAPALANI MURUGAN TEMPLE</h1>
-        <p>
-            <font size="5">Vadapalani Andavar Temple is a Hindu temple dedicated to Lord Muruga. 
-                It is located in Vadapalani, Chennai, Tamil Nadu, India. It was renovated in the 
-                1920s and a Rajagopuram was built during that time. The temple has grown in 
-                popularity, which is believed to be in part due to the patronage of cinema 
-                stars.  in, and they believe in the power of this 
-                sacred temple.</font>
-        </p>
-        
+    <body>
+        <h>VALEESHWARAR TEMPLE</h>
+        <p> The Aadhi Valeeswarar Temple in Villupuram is a Shiva temple known for its association with the mythical Vanara king, Vali, from the epic Ramayana. Located in the Poonthottam area, the temple has ancient origins and has been renovated over time. 
+Key details about the temple:
+Deity: Lord Shiva, worshipped as Aadhi Valeeswarar. The name reflects the legend that the mythical Vanara King, Vali, worshipped Shiva at this location.</p>
     </body>
 </html>
-
-
-
 
 ```
 
 ## OUTPUT
-<img width="1906" height="1064" alt="map" src="https://github.com/user-attachments/assets/f0f24d2f-8633-4623-a2db-803bb9c44fc9" />
-<img width="1904" height="1041" alt="hotel" src="https://github.com/user-attachments/assets/a531129c-8997-4016-b32d-c8d7dc994327" />
-<img width="1906" height="1001" alt="temple" src="https://github.com/user-attachments/assets/49333101-a1e2-4021-a9a7-a6bc622cc217" />
-<img width="1906" height="1032" alt="marketcity" src="https://github.com/user-attachments/assets/d49fc6b6-7138-4e4b-8c77-d31029523611" />
-<img width="1906" height="1036" alt="airport" src="https://github.com/user-attachments/assets/f74aed9d-863c-46ef-8888-3ea5e910e4a2" />
-<img width="1902" height="1036" alt="beach" src="https://github.com/user-attachments/assets/f462a5c8-aa4a-429e-ad7e-237fa15beddf" />
 
-
+![alt text](<Screenshot 2025-10-15 194003.png>)
+![alt text](<Screenshot 2025-10-15 194055.png>)
+![alt text](<Screenshot 2025-10-15 194156.png>)
+![alt text](<Screenshot 2025-10-15 194218.png>)
+![alt text](<Screenshot 2025-10-15 194241.png>)
+![alt text](<Screenshot 2025-10-15 194340.png>)
 
 
 ## RESULT
