@@ -1,7 +1,6 @@
 # Ex04 Places Around Me
-## Name: HARI PRASATH E
-## Ref No: 25007799
-## Date: 21-09-2025
+## Name: PRIYANKA P
+## Reg No: 2212224230212
 
 ## AIM
 To develop a website to display details about the places around my house.
